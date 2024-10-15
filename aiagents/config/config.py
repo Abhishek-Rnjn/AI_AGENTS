@@ -8,7 +8,7 @@ from dotenv import load_dotenv, find_dotenv
 from langchain_openai import AzureChatOpenAI, ChatOpenAI
 import panel as pn
 
-
+# changing these defaults
 class Initialize:
 
     diagrams = {
